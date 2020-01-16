@@ -7,4 +7,4 @@ Motivation for making this, and usage seen toward the end of this video: https:/
 
 Uses (2) 12mm magnets and zip tie.
 
-![image](magnet1.jpg)
+![image](magnet1.jpg.jpg)
